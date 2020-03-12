@@ -1,0 +1,144 @@
+Création d'un labyrinthe de 25x17 dont les cases font 20 pixels.
+25x17/D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-S-S-S-D-S-D-S-D-S-D-S-D-S-D-S-S-S-D-S-S-S-S-S-D-D-D-D-S-D-S-D-S-D-S-D-S-D-S-D-S-D-D-D-S-D-D-D-D-D-D-S-S-S-F-B-S-10-D-S-S-S-S-S-S-S-S-S-S-S-F-S-S-S-D-D-S-D-D-D-D-D-D-D-S-D-D-D-S-D-D-D-D-D-D-D-70-D-D-D-D-S-D-S-S-S-D-60-S-S-D-S-S-S-D-S-S-S-D-S-S-S-S-S-D-D-S-D-D-D-S-D-S-D-D-D-D-D-S-D-S-D-D-D-S-D-D-D-D-D-D-S-S-S-S-S-D-60-D-S-S-S-D-S-80-S-D-S-D-S-S-S-S-S-D-D-D-D-D-D-90-D-S-D-S-D-D-D-D-D-S-D-F-D-D-D-D-D-S-D-D-S-D-S-S-S-10-S-D-S-S-S-D-S-F-S-S-30-B-F-S-S-D-S-D-D-S-D-S-D-70-D-D-D-F-D-S-D-D-D-S-D-D-D-B-D-S-D-D-D-D-S-D-S-D-S-D-B-D-S-D-S-D-S-F-S-S-S-D-S-D-S-S-S-D-D-S-D-S-D-S-D-S-D-S-D-S-D-D-D-S-D-D-D-D-D-D-D-S-D-D-S-S-S-D-S-D-B-D-F-D-S-D-60-D-S-S-S-D-S-D-S-D-S-D-D-S-D-D-D-D-D-S-D-S-D-D-D-S-D-S-D-D-D-S-D-S-D-S-D-D-S-S-S-S-S-D-S-S-S-S-S-S-S-S-S-D-S-S-S-S-S-S-S-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D/1-1,1
+Le labyrinthe porte le numéro 51416.
+Le placement des bonus porte le numéro 29632;
+Il y a 1 joueur(s)
+Le labyrinthe contient un taux de dune de 50%, 8 frite(s), 10 moule(s) et 5 biére(s)
+Le port du serveur est le 1337. Le timeout pour chaque joueur est de 3000 ms. le délai d'attente minimum entre deux tours est de 100 ms.
+Les screenshots à chaque tour ne sont pas activés
+Serveur en attente de connexion
+************************************************************
+*    -->    11/03/2020 - 10:33:44                          *
+*       Connexion 0 - adresse : 3.10.20.172.rev.sfr.net, /172.20.10.3:50624
+************************************************************
+11032020-103345 -  envoi du numéro de joueur au joueur 0
+11032020-103348 -  envoi des infos du labyrinthe au joueur 0
+11032020-103348 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103348 -  envoi des infos du labyrinthe au joueur 0
+11032020-103348 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103348 -  envoi des infos du labyrinthe au joueur 0
+11032020-103348 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103348 -  envoi des infos du labyrinthe au joueur 0
+11032020-103348 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103349 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103349 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103350 -  envoi des infos du labyrinthe au joueur 0
+11032020-103350 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "O" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103351 -  envoi des infos du labyrinthe au joueur 0
+11032020-103351 - réception du message "S" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103352 -  envoi des infos du labyrinthe au joueur 0
+11032020-103352 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103353 -  envoi des infos du labyrinthe au joueur 0
+11032020-103353 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103353 -  envoi des infos du labyrinthe au joueur 0
+11032020-103353 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103353 -  envoi des infos du labyrinthe au joueur 0
+11032020-103353 - réception du message "N" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103353 -  envoi des infos du labyrinthe au joueur 0
+11032020-103353 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103353 -  envoi des infos du labyrinthe au joueur 0
+11032020-103353 - réception du message "E" de la part du joueur 0
+Retour de l'exécution de la commande : 
+11032020-103353 -  envoi des infos du labyrinthe au joueur 0
+11032020-103353 - réception du message "C" de la part du joueur 0
+Retour de l'exécution de la commande : 
+Tous les participants ont passé ou sont déconnectés
+Fin de partie en 41 tours. Quelques moules se sont échappées.
+11032020-103353 -  envoi de la fin de partie au joueur 0
+---------------------------
+Joueur J0 en (11,3) a 300 points et possède 1 bière et 1 frite
+---------------------------
+11032020-103353 -  VAINQUEUR : J0 avec 300 points
